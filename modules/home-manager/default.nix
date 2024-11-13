@@ -19,8 +19,8 @@
   programs.fzf.enableZshIntegration = true;
   programs.exa.enable = true;
   programs.git.enable = true;
-  programs.git.config.user.name = "Geoff Tearle";
-  programs.git.config.user.email = "18473961+GeoffTearle@users.noreply.github.com";
+  programs.git.userName = "Geoff Tearle";
+  programs.git.userEmail = "18473961+GeoffTearle@users.noreply.github.com";
   programs.zsh.enable = true;
   programs.zsh.enableCompletion = true;
   programs.zsh.enableAutosuggestions = true;
